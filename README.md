@@ -11,4 +11,8 @@ whenever you are confused about the Data tabels make sure that you have domain l
 **User Domain:**
 <img width="1920" height="1080" alt="User" src="https://github.com/user-attachments/assets/93bdac86-c03c-446c-86d0-a6abc13daa66" />
 
+**Merchant Domain**
+<img width="6012" height="3769" alt="User (1)" src="https://github.com/user-attachments/assets/e161a5be-9ab7-4b88-a54b-aa591d2565ca" />
+
+
 
