@@ -20,7 +20,10 @@ whenever you are confused about the Data tabels make sure that you have domain l
 **Order Domain**
 <img width="1920" height="1080" alt="User (7)" src="https://github.com/user-attachments/assets/77167146-d976-467e-b8dc-fc965079a891" />
 
-** Domain **
+**Delivery Domain**
+<img width="6601" height="3754" alt="User (8)" src="https://github.com/user-attachments/assets/bf967204-3a39-402c-8432-7808081f602f" />
+
+
 
 
 
