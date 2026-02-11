@@ -27,6 +27,7 @@ whenever you are confused about the Data tabels make sure that you have domain l
 <img width="8324" height="4965" alt="User (9)" src="https://github.com/user-attachments/assets/ac7eb7c0-d1a9-4843-9299-185b2b47df4b" />
 
 **Review and Rating Domain**
+<img width="10737" height="6078" alt="User (10)" src="https://github.com/user-attachments/assets/591fe695-8b5f-4f91-9a91-c2acf3b6380b" />
 
 
 
