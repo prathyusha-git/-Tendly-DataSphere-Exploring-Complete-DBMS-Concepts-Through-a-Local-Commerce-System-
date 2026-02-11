@@ -23,6 +23,17 @@ whenever you are confused about the Data tabels make sure that you have domain l
 **Delivery Domain**
 <img width="6601" height="3754" alt="User (8)" src="https://github.com/user-attachments/assets/bf967204-3a39-402c-8432-7808081f602f" />
 
+**Booking Domain**
+<img width="8324" height="4965" alt="User (9)" src="https://github.com/user-attachments/assets/ac7eb7c0-d1a9-4843-9299-185b2b47df4b" />
+
+**Review and Rating Domain**
+
+
+
+
+
+
+
 
 
 
